@@ -24,5 +24,9 @@ Correr el cliente con
 $npm start
 
 Un detalle es que el sistema usa Axios para la comunicación con Backend.
+Puede descargarse.
 
+## Ver todo el video en YouTube
+
+https://www.youtube.com/watch?v=8s_ZbPkPkRk&t=8326s&ab_channel=render2web
 
